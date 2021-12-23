@@ -11,20 +11,9 @@
 <body>
     <h1>Welcome To Makeover Hair Salon</h1>
     <!-- <h4>FOUR SEASONS PLACE, 145 JALAN AMPANG, 50450 KUALA LUMPUR, MALAYSIA</h4> -->
-    <form action="function.php" method="post">
-        <label>First Name:</label>
-        <input type="text" for="fname" name="fname" id="fname"><br><br>
-        <label>Last Name:</label>
-        <input type="text" for="lname" name="lname" id="lname"><br><br>
-        <label>Age:</label>
-        <input type="number" for="age" name="age" id="age"><br><br>
-        <label>Gender:</label>
-        <input type="radio" for="Jantina" name="jantina" value="female" id="female">
-        <label>Female</label>
-        <input type="radio" for="Jantina" name="jantina" value="male" id="male">
-        <label>Male</label><br><br>
-        <label>Address:</label>
-        <textarea id="address" name="address" rows="4" cols="40"></textarea><br><br>
+    <form action="result.php" method="post">
+        <label>Name:</label>
+        <input type="text" for="name" name="name" id="name"><br><br>
         <label>Email:</label>
         <input type="text" for="email" name="email" id="email"><br><br>
         <label>Number telephone:</label>
