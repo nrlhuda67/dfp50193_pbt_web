@@ -32,22 +32,11 @@
         <label> Haircut Services:</label>
         <select id="services" name="services">
             <option value=""></option>
-            <option value="massage">Haircut</option>
-            <option value="bodyrenewal">Hair Scarl Treatment</option>
-            <option value="facials">Rebonding</option>
-            <!-- <option value="skincare">SKINCARE</option> -->
+            <option value="cleaning">Cleaning</option>
+            <option value="hair">Hair Scarl Treatment</option>
+            <option value="rebonding">Rebonding</option>
+            <option value="fringe">Fringe</option>
         </select><br><br>
-        <!-- <label>Retails:</label>
-        <input type="checkbox" for="skills" name="micellar" value="micellar" id="micellar">
-        <label>CLEANSING MICELLAR WATER 200ML</label>
-        <input type="checkbox" for="skills" name="cleansing" value="cleansing" id="cleansing">
-        <label>DELICATE CLEANSING MILK 250ML</label>
-        <input type="checkbox" for="skills" name="moisturizing" value="moisturizing" id="moisturizing">
-        <label>PH MOISTURIZING BOOSTER 30ML</label>
-        <input type="checkbox" for="skills" name="eyecream" value="eyecream" id="eyecream">
-        <label>SOOTHING EYE CREAM 15ML</label>
-        <input type="checkbox" for="skills" name="spf" value="spf" id="spf">
-        <label>PROTECTIVE CREAM SPF 50+ "BLUE LIGHT TECHNOLOGY"</label> <br><br> -->
         <button type="submit">SUBMIT</button>
     </form>
 </body>
