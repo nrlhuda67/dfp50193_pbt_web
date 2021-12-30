@@ -1,0 +1,93 @@
+#atas {
+    font-family: Arial;
+    margin: auto;
+    width: 100%;
+    background-color: #ADD8E6;
+    color: black;
+    font-size: 20px;
+    padding: 30px 5px;
+}
+
+li {
+    list-style: none;
+    text-align: left;
+}
+
+table,
+tr,
+td,
+th {
+    color: black;
+    border: seashell;
+    margin: auto;
+    font-size: 20px;
+    padding: 50px;
+    background-color: #ADD8E6;
+}
+
+h1 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkblue;
+    font-size: 45px;
+}
+
+h2 {
+    text-align: center;
+    color: orangered;
+    font-size: 25px;
+}
+
+p {
+    text-align: center;
+}
+
+body {
+    background-color: #e4e4e4;
+    padding: 50px;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button[type=reset] {
+    background-color: red;
+    border: seashell;
+    padding: 10px 100px;
+    margin-left: 10%;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+button[type=submit] {
+    background-color: green;
+    border: seashell;
+    padding: 10px 100px;
+    margin-left: 10%;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.buttonback {
+    font-family: Arial, Helvetica, sans-serif;
+    border: seashell;
+    padding: 10px 100px;
+    margin-left: 10%;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.display {
+    margin: auto;
+    text-align: center;
+    color: black;
+    padding: 50px;
+    font-size: 20px;
+    font-family: Arial;
+    background-color: #ADD8E6;
+}
